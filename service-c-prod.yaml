@@ -3,3 +3,5 @@ car:
   type: x5
   price: 50000$
   color: red
+  categroy: SUV
+  wheels: 4
